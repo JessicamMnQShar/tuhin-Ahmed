@@ -111,7 +111,7 @@ def menu(): #Bilo
 	if farhan in ['1','01']:
 		File2()
 	elif farhan in ['0','00']:
-		os.system("xdg-open https://youtube.com/c/Md Tuhin Miah")
+		os.system("xdg-open https://youtube.com/c/TuhinTechnologychannel")
 		exit()
 	else:
 		os.system("https://youtube.com/c/TuhinTechnologychannel")
@@ -248,3 +248,4 @@ if __name__=='__main__':
 	os.system("xdg-open https://youtube.com/c/Md Tuhin Miah")
 	menu()
 	
+l
