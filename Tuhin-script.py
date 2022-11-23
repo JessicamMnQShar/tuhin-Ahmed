@@ -111,10 +111,10 @@ def menu(): #Bilo
 	if farhan in ['1','01']:
 		File2()
 	elif farhan in ['0','00']:
-		os.system("xdg-open https://youtube.com/c/https://youtube.com/channel/md Tuhin Miah)
+		os.system("xdg-open https://youtube.com/c/Md Tuhin Miah")
 		exit()
 	else:
-		os.system("https://youtube.com/c/Md Tuhin Miah)
+		os.system("https://youtube.com/c/TuhinTechnologychannel")
 		exit()
 
 def File2():
@@ -244,7 +244,7 @@ if __name__=='__main__':
 	try:os.mkdir('CP')
 	except:pass
 	try:os.mkdir('OK')
-	except:passhttps://youtube.com/channel/UCfQVsSeiu6eNPck2PFyA1Qg
-	os.system("xdg-open https://youtube.com/c/)
+	except:pass
+	os.system("xdg-open https://youtube.com/c/Md Tuhin Miah")
 	menu()
 	
